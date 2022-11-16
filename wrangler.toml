@@ -1,0 +1,6 @@
+name = "play-stats"
+compatibility_date = "2022-10-31"
+
+kv_namespaces = [
+  { binding = "PLAY_CACHE", id = "2da8acb93dd5473d91275db477079970" }
+]
