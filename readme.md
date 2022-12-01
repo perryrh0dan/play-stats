@@ -12,9 +12,15 @@
 
 ## Description
 
-## Contents
+The worker returns a json object with live data from your android app that can be used to generate custom shields like this:
+
+![test](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay-stats.tpoe.dev%2Fplay%3Fi%3Ddev.tpoe.wordclock%26l%3DAndroid%26m%3D%24version)
+
+![test](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay-stats.tpoe.dev%2Fplay%3Fi%3Ddev.tpoe.wordclock%26l%3DWord%2520Clock%2520Watch%2520Face%26m%3D%24installs)
 
 ## Usage
+
+Use the [live demo](https://play-stats.tpoe.dev) to customize your badge and embed them via the provided link.
 
 ## Installation
 
